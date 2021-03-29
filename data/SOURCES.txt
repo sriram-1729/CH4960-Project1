@@ -1,0 +1,21 @@
+Sources for the data used in the MATLAB script:
+
+Capture cross sections: https://www-nds.iaea.org/ngatlas2/
+
+Fission cross sections: https://www-nds.iaea.org/standards/
+
+Scattering cross sections:
+
+- H-1 cross section: https://www.nndc.bnl.gov/exfor/servlet/X4sGetReacTabl?reqx=13108&subID=12590002&pointer=
+
+- O-16 cross section:
+  * https://www.nndc.bnl.gov/exfor/servlet/X4sGetReacTabl?reqx=13110&subID=11334009&pointer=
+  * https://www.nndc.bnl.gov/exfor/servlet/X4sGetReacTabl?reqx=13110&subID=22113002&pointer=
+
+- U-235 cross section: https://www.nndc.bnl.gov/exfor/servlet/X4sGetReacTabl?reqx=13113&subID=21086002&pointer=
+
+- U-238 cross section:
+  * https://www.nndc.bnl.gov/exfor/servlet/X4sGetReacTabl?reqx=13114&subID=21782028&pointer=
+  * https://www.nndc.bnl.gov/exfor/servlet/X4sGetReacTabl?reqx=13114&subID=30716003&pointer=
+
+- Zr-90 cross section: https://www.nndc.bnl.gov/exfor/servlet/X4sGetReacTabl?reqx=13115&subID=10621003&pointer=
